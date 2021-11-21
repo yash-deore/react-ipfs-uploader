@@ -90,4 +90,4 @@ export default App
 
 MIT © [yash-deore](https://github.com/yash-deore)
 
-> ### Made with react , create-react-library , react-bootstrap , ipfs-http-client , it-all
+> ### Made with reactjs , create-react-library , react-bootstrap , ipfs-http-client , it-all
