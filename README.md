@@ -20,7 +20,7 @@ yarn add react-ipfs-uploader
 
 ## How To Use :
 
-[![Demo Video](https://i9.ytimg.com/vi_webp/k9slvgsPqJg/mqdefault.webp?v=619bd0e6&sqp=CIDI74wG&rs=AOn4CLD3fFo3uy6-Zozx-lbEDW7ciqjbdw)](https://youtu.be/k9slvgsPqJg)
+[![Demo Video](https://i.ytimg.com/vi/k9slvgsPqJg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBCc74AAit2zX9o6pozo-YQkYQ9dg)](https://youtu.be/k9slvgsPqJg)
 
 ## Usage
 
