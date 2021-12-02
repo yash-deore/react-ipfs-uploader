@@ -1,10 +1,15 @@
 import React from 'react'
-
-import { ExampleComponent } from 'react-ipfs-uploader'
-import 'react-ipfs-uploader/dist/index.css'
+import { ExampleTabs } from './components/ExampleTabs'
+import { Navigation } from './components/Navigation'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+    return (
+        <div>
+            <Navigation />
+            <br />
+            <ExampleTabs />
+        </div>
+    )
 }
 
 export default App

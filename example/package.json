@@ -10,10 +10,12 @@
     "eject": "node ../node_modules/react-scripts/bin/react-scripts.js eject"
   },
   "dependencies": {
+    "bootstrap": "5.1.3",
     "react": "link:../node_modules/react",
+    "react-bootstrap": "^2.0.2",
     "react-dom": "link:../node_modules/react-dom",
-    "react-scripts": "link:../node_modules/react-scripts",
-    "react-ipfs-uploader": "link:.."
+    "react-ipfs-uploader": "link:..",
+    "react-scripts": "link:../node_modules/react-scripts"
   },
   "devDependencies": {
     "@babel/plugin-syntax-object-rest-spread": "^7.8.3"
