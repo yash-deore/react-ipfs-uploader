@@ -1,12 +1,3 @@
-## CryptoNewsers
-
-[![CryptoNewsers](https://bafybeifdnmncn2tshhphe2ybgl44z45wgx77fiokl7agkfpy7dg5wvvihe.ipfs.infura-ipfs.io/)](https://cryptonewsers.com/)
-<br/>
-Website: https://cryptonewsers.com/ <br/>
-Reddit: https://www.reddit.com/r/CryptoNewsers/ <br/>
-Discord: https://discord.gg/bTW3zvaEF2 <br/>
-Telegram: https://t.me/cryptonewsers <hr/>
-
 # react-ipfs-uploader
 
 ## React Components that enable you to upload a file(Images,PDFs,Text,etc.) , multiple files or a folder to IPFS .
