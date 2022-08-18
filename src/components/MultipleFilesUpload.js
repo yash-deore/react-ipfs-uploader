@@ -76,6 +76,7 @@ export const MultipleFilesUpload = ({ setUrl }) => {
                                             <ListGroup.Item
                                                 as='li'
                                                 className='d-flex justify-content-between align-items-start'
+                                                key={file.name}
                                             >
                                                 <div className='ms-2 me-auto'>
                                                     {file.name}
