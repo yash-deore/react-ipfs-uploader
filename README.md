@@ -6,6 +6,12 @@
 ![downloads](https://img.shields.io/npm/dt/react-ipfs-uploader.svg)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+# Note
+
+> This package uses Infura's public gateway to upload files to IPFS. Infura's public gateway is not available anymore since it has become a paid service and will require a projectId to upload files. Due to this the compoenents are unable to upload files to IPFS. <br/>
+>
+> -- Yash Deore (creator of react-ipfs-uploader)
+
 ## Install
 
 ### npm :
@@ -19,14 +25,6 @@ npm install react-ipfs-uploader
 ```bash
 yarn add react-ipfs-uploader
 ```
-
-## Demo
-
-### Demo Website : https://yash-deore.github.io/react-ipfs-uploader/
-
-### Demo Video
-
-[![Demo Video](https://i.ytimg.com/vi/k9slvgsPqJg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBCc74AAit2zX9o6pozo-YQkYQ9dg)](https://youtu.be/Xvfx76PafcA)
 
 ## Features
 
