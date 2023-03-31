@@ -219,7 +219,6 @@ export default YourComponent
 ## Links
 
 Developer Chat : https://discord.gg/bgY4TZecVu <br/>
-Demo Website : https://yash-deore.github.io/react-ipfs-uploader/ <br/>
 CodeSandBox : https://codesandbox.io/u/yash-deore <br/>
 NPM Package : https://www.npmjs.com/package/react-ipfs-uploader <br/>
 GitHub Repository : https://github.com/yash-deore/react-ipfs-uploader <br/>
