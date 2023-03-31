@@ -8,7 +8,7 @@
 
 # Note
 
-> This package uses Infura's public gateway to upload files to IPFS. Infura's public gateway is not available anymore since it has become a paid service and will require a projectId to upload files. Due to this the compoenents are unable to upload files to IPFS. <br/>
+> This package uses Infura's public gateway to upload files to IPFS. Infura's public gateway is not available anymore since it has become a paid service and will require a projectId and API key to upload files. Due to this the compoenents are unable to upload files to IPFS. <br/>
 >
 > -- Yash Deore (creator of react-ipfs-uploader)
 
